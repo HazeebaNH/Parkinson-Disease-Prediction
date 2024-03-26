@@ -1,4 +1,4 @@
-# Parkinson-Disease-Prediction
+# Parkinson's Disease Prediction
 This is a project to predict Parkinson's Disease in a person.
 
 Voice and image datasets were analyzed and Parkinson's disease predictions were done using both. Also developed a Chatbot for guidance on Parkinson's disease related queries.
